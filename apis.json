@@ -1,0 +1,70 @@
+{
+    "name": "Drillster",
+    "description": "Drillster is an adaptive online learning and test application. Its unique algorithm ensures that users learn easy and retain information much better.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1562-drillster.jpg",
+    "tags": [
+        "api provider",
+        "flashcards",
+        "have api",
+        "netherlands"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/drillster\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Drillster",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1562-drillster.jpg",
+            "humanURL": "http:\/\/www.drillster.com\/info\/api",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/drillster-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/drillster"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/drillster"
+        },
+        {
+            "type": "Email",
+            "url": "support@drillster.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@drillster.com"
+        },
+        {
+            "type": "Email",
+            "url": "abuse@drillster.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/drillster"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/www.drillster.com\/info\/pricing"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/drillsterdotcom"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.drillster.com\/info\/api"
+        }
+    ]
+}
